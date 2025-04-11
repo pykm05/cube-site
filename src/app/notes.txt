@@ -1,0 +1,2 @@
+sessionprovider allows useSession to access session
+across components
